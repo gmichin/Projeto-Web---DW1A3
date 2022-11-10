@@ -8,26 +8,18 @@
 }
 
 body {
-    display:inline-block;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
     background: white;
-    margin-left: auto;
-    margin-right: auto;
-    width: 940px;
 }
 
 .navigation{
     margin: 19px;
-    position: relative;
+    position: absolute;
     height: 700px;
     width: 300px;
-    background: #1d1c1c;
+    background: #1d1c1c repeat left;
     box-shadow: 10px 0 0 rgb(15, 1, 121);
     border-left: 10px solid #1d1c1c;
     overflow-x: hidden;
-    transition: 0.5s;
 }
 .navigation ul{
     position: absolute;
@@ -55,8 +47,7 @@ body {
 }
 .navigation ul li a .icon ion-icon{
     position: relative;
-    font-size: 1.5rem;
-    z-index: 1;
+    font-size: 25px;
 
 }
 .navigation ul li a .title{
@@ -67,7 +58,6 @@ body {
     line-height: 60px;
     white-space: nowrap;
 }
-/*
 h1 {
     padding: 10px;
 }
@@ -88,4 +78,10 @@ p{
 #emergencia{
     text-align: center;
 }
-*/
+
+.pag{
+    position: relative;
+    margin:19px;
+    float: right;
+    width: 75%;
+}
