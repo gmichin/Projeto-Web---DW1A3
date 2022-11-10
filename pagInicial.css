@@ -19,6 +19,7 @@ body {
 }
 
 .navigation{
+    margin: 19px;
     position: relative;
     height: 700px;
     width: 300px;
