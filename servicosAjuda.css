@@ -95,7 +95,10 @@ p{
 
 .image{
     display: block;
-    margin: 0px auto;
+    margin: 10px;
+    margin-left: 20px;
+    align: left;
+    float: left;
 }
 
 .logoimg{
@@ -111,5 +114,30 @@ h4{
     font-weight: lighter;
     margin-top: -2px;
     font-size: 20px;
+}
+
+.topic{
+    text-align: left;
+    font-weight: bold;
+    border-bottom: none;
+}
+
+.topicText{
+    text-align:start;;
+    padding: 0 45px;
+    text-indent: 15px;
+    margin-top: 10px;
+    margin-left: 20px;
+    float: left;
+    border-radius: 10px; 
+    padding: 10px; 
+    border: 2px solid black;
+    
+}
+
+h3{
+    text-align: left;
+    margin-left: 20px;
+    margin-top:20px;
 }
 
