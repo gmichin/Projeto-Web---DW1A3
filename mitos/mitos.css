@@ -135,3 +135,12 @@ h3{
     margin-left: 0.5cm;
     border-bottom: 2px double black;
 }
+
+.topicText{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    border-radius: 10px; 
+    border: 2px solid black;
+    padding-right: 20px;
+}
