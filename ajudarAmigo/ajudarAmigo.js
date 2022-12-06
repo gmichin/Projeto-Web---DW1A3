@@ -63,8 +63,8 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-    $(".image1").hide().fadeIn(3000);
+    $(".image1").hide().fadeIn(2000);
 });
 $(document).ready(function(){
-    $(".image2").hide().fadeIn(3000);
+    $(".image2").hide().fadeIn(2000);
 });
