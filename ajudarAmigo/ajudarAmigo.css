@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: rgb(228, 228, 228);
+}
+
+.navigation{
+    margin: 19px;
+    position: fixed;
+    height: 700px;
+    width: 300px;
+    background: rgb(29, 64, 189) repeat left;
+    box-shadow: 10px 0 0 rgb(15, 1, 121);
+    border-left: 10px solid rgb(29, 64, 189);
+    overflow-x: hidden;
+ 
+}
+.navigation ul{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding-left: 5px;
+    padding-top: 40px;
+    
+    
+}
+
+.navigation ul li a{
+    position: relative;
+    display: flex;
+    width: 100%;
+    text-decoration: none;
+    color: #fff;
+}
+.navigation ul li a .icon{
+    position: relative;
+    display: block;
+    min-width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 70px;
+}
+.navigation ul li a .icon ion-icon{
+    position: relative;
+    font-size: 25px;
+
+}
+.navigation ul li a .title{
+    position: relative;
+    display: block;
+    padding-left: 10px;
+    height: 60px;
+    line-height: 60px;
+    white-space: nowrap;
+}
+h1 {
+    padding: 10px;
+    text-align: left;
+}
+h2 {
+    border-bottom: 2px double black;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+figcaption {
+    font-style: italic;
+    margin-top: 10px;
+    font-size: small;
+}
+p{
+    text-align: justify;
+    text-indent: 12px;
+    margin-top: 10px;
+    margin-left: 0.5cm;
+}
+
+#emergencia{
+    text-align: center;
+}
+
+.pag{
+    position: relative;
+    margin:19px;
+    float: right;
+    width: 75%;
+}
+
+.image{
+    display: block;
+    margin: 0px auto;
+}
+
+.logoimg{
+        margin: 0px;
+        margin-right: 20px;
+        margin-left:20px;
+        margin-top: -20px;
+        left: 0;
+        float: left;
+}
+
+h4{
+    font-weight: lighter;
+    margin-top: -2px;
+    font-size: 20px;
+}
+
+.image1{
+    float: right;
+    margin-left: 0.5cm;
+}
+
+.image2{
+    float: left;
+    margin-right: 0.5cm;
+}
+
+.image3{
+    width: 33%;
+}
+
+h5{
+    margin-left: 1cm;
+    font-size: 18px;
+}
+h3{
+    margin-left: 0.5cm;
+    border-bottom: 2px double black;
+}
+
+.topicText{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    border-radius: 10px; 
+    border: 2px solid black;
+    padding-right: 20px;
+}
