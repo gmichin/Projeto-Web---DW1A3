@@ -136,11 +136,20 @@ h3{
     border-bottom: 2px double black;
 }
 
-.topicText{
+
+.topicText1{
     margin-top: 10px;
-    margin-bottom: 10px;
     margin-left: 20px;
     border-radius: 10px; 
     border: 2px solid black;
     padding-right: 20px;
+    margin-right: 12cm;
+}
+.topicText2{
+    margin-top: 10px;
+    margin-left: 20px;
+    border-radius: 10px; 
+    border: 2px solid black;
+    padding-right: 20px;
+    margin-left: 12cm;
 }
