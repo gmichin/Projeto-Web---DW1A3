@@ -68,13 +68,13 @@ h1 {
 h2 {
     border-bottom: 2px double black;
     margin-top: 50px;
-    margin-left: 10px;
+    margin-left: 40px;
 }
 p{
     text-align: justify;
-    text-indent: 12px;
+    padding: 0 45px;
+    text-indent: 15px;
     margin-top: 10px;
-    margin-left: 0.5cm;
 }
 
 .pag{
@@ -104,6 +104,8 @@ h4{
     font-size: 20px;
 }
 
+
+
 .image1{
     float: right;
     margin-left: 0.5cm;
@@ -129,18 +131,18 @@ h3{
 
 
 .topicText1{
-    margin-top: 10px;
-    margin-left: 20px;
+    margin-top: 5px;
+    margin-left: 1cm;
     border-radius: 10px; 
     border: 2px solid black;
-    padding-right: 20px;
-    margin-right: 12cm;
+    padding-right: 5px;
+    margin-right: 12.3cm;
 }
 .topicText2{
-    margin-top: 10px;
-    margin-left: 20px;
+    margin-top: 5px;
+    margin-left: 2cm;
     border-radius: 10px; 
     border: 2px solid black;
-    padding-right: 20px;
-    margin-left: 12cm;
+    padding-right: 5px;
+    margin-left: 12.3cm;
 }

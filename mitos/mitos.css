@@ -70,20 +70,11 @@ h2 {
     margin-top: 50px;
     margin-left: 10px;
 }
-figcaption {
-    font-style: italic;
-    margin-top: 10px;
-    font-size: small;
-}
 p{
     text-align: justify;
     text-indent: 12px;
     margin-top: 10px;
     margin-left: 0.5cm;
-}
-
-#emergencia{
-    text-align: center;
 }
 
 .pag{
