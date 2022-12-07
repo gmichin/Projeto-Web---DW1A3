@@ -21,21 +21,21 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
     $("#action4").click(function(){
-        document.getElementById("a4").innerHTML = "<p> &nbsp;&nbsp;&nbsp;Sofrer de depressão não significa que você seja uma pessoa fraca. Quando alguém sofre com essa doença, as pessoas a veem como alguém incapaz de enfrentar as dificuldades, como alguém que não é suficientemente forte para encarar a vida. A depressão é um problema psicológico que vira a vida de cabeça para baixo, afetando-nos psicologicamente, biologicamente e socialmente.&nbsp;&nbsp;&nbsp;Sofrer de depressão não é ser fraco. Você não escolheu ter depressão! Não tem uma mente fraca!  Esse mito faz com que as pessoas se isolem e sofram sua doença em completo silêncio, sofrendo ainda mais, se é que é possível.</p>"
+        document.getElementById("a4").innerHTML = "<p> &nbsp;&nbsp;&nbsp;Sofrer de depressão não significa que você seja uma pessoa fraca. Quando alguém sofre com essa doença, as pessoas a veem como alguém incapaz de enfrentar as dificuldades, como alguém que não é suficientemente forte para encarar a vida. A depressão é um problema psicológico que vira a vida de cabeça para baixo, afetando-nos psicologicamente, biologicamente e socialmente.<br>&nbsp;&nbsp;&nbsp;Sofrer de depressão não é ser fraco. Você não escolheu ter depressão! Não tem uma mente fraca!  Esse mito faz com que as pessoas se isolem e sofram sua doença em completo silêncio, sofrendo ainda mais, se é que é possível.</p>"
         $("#a4").hide().slideDown(1000);
         $(".header3-3").css("margin-top","4cm")
     });
 });
 $(document).ready(function(){
     $("#action5").click(function(){
-        document.getElementById("a5").innerHTML = "<p> &nbsp;&nbsp;&nbsp;A depressão, longe do que podemos crer, não afeta apenas a mente, mas também o corpo de maneira geral. A insônia, a fadiga, as dores musculares crônicas, as dores de cabeça, são alguns dos sintomas que podem aparecer. Se você acredita que é algo que existe apenas em nossa cabeça, quase como uma invenção, saiba que este é um erro grave. A depressão não é apenas mental, vai muito além.&nbsp;&nbsp;&nbsp;As pessoas que nunca tiveram contato com alguém que já sofreu de depressão podem pensar dessa maneira um pouco superficial, mas ninguém quer inventar e desejar ter uma doença tão grave como é a depressão.</p>"
+        document.getElementById("a5").innerHTML = "<p> &nbsp;&nbsp;&nbsp;A depressão, longe do que podemos crer, não afeta apenas a mente, mas também o corpo de maneira geral. A insônia, a fadiga, as dores musculares crônicas, as dores de cabeça, são alguns dos sintomas que podem aparecer. Se você acredita que é algo que existe apenas em nossa cabeça, quase como uma invenção, saiba que este é um erro grave. A depressão não é apenas mental, vai muito além.<br>&nbsp;&nbsp;&nbsp;As pessoas que nunca tiveram contato com alguém que já sofreu de depressão podem pensar dessa maneira um pouco superficial, mas ninguém quer inventar e desejar ter uma doença tão grave como é a depressão.</p>"
         $("#a5").hide().slideDown(1000);
         $(".header3-3").css("margin-top","4cm")
     });
 });
 $(document).ready(function(){
     $("#action6").click(function(){
-        document.getElementById("a6").innerHTML = "<p> &nbsp;&nbsp;&nbsp;O primeiro destes mitos sobre a depressão diz algo que todos conhecemos. Quando nos dizem que uma pessoa esta sofrendo de depressão, imediatamente pensamos que ela está muito triste. Nada mais longe da realidade.&nbsp;&nbsp;&nbsp;Todo sentimos tristeza em certos momentos da vida, mas há um abismo entre a tristeza e a depressão. A tristeza é passageira e temporária. Cedo ou tarde ela se vai.&nbsp;&nbsp;&nbsp;A depressão é o contrário. Não é algo passageiro, é algo que fica junto com muitas outras coisas: apatia, sentimento de vazio, dor… A depressão não vem sozinha, mas sim acompanhada de muitos outros sentimentos negativos que fazem com que toda a sua vida seja cinza.</p>"
+        document.getElementById("a6").innerHTML = "<p> &nbsp;&nbsp;&nbsp;O primeiro destes mitos sobre a depressão diz algo que todos conhecemos. Quando nos dizem que uma pessoa esta sofrendo de depressão, imediatamente pensamos que ela está muito triste. Nada mais longe da realidade.<br>&nbsp;&nbsp;&nbsp;Todo sentimos tristeza em certos momentos da vida, mas há um abismo entre a tristeza e a depressão. A tristeza é passageira e temporária. Cedo ou tarde ela se vai.<br>&nbsp;&nbsp;&nbsp;A depressão é o contrário. Não é algo passageiro, é algo que fica junto com muitas outras coisas: apatia, sentimento de vazio, dor… A depressão não vem sozinha, mas sim acompanhada de muitos outros sentimentos negativos que fazem com que toda a sua vida seja cinza.</p>"
         $("#a6").hide().slideDown(1000);
         $(".header3-3").css("margin-top","4cm")
     });
@@ -56,7 +56,7 @@ $(document).ready(function(){
 });
 $(document).ready(function(){
     $("#action9").click(function(){
-        document.getElementById("a9").innerHTML = "<p> &nbsp;&nbsp;&nbsp;Muitas pessoas com transtorno bipolar podem não procurar ajuda porque se sentem frágeis se não forem capazes de controlar suas emoções. No entanto, sofrer de depressão, ansiedade ou qualquer outro tipo de doença não o torna mais frágil do que os outros. O transtorno bipolar é simplesmente uma condição que pode ser tratada. Assim, a pessoa que a sofre consegue atingir o equilíbrio de que necessita.&nbsp;&nbsp;&nbsp;Precisamos limpar esses mitos sobre o transtorno bipolar de nossas mentes, porque eles nos impedem de aprofundar nosso conhecimento e descobrir o que ele realmente é. Acreditar que quem sofre é louco ou pode enlouquecer os outros não é uma atitude madura para um problema que esgota e desgasta quem sofre</p>"
+        document.getElementById("a9").innerHTML = "<p> &nbsp;&nbsp;&nbsp;Muitas pessoas com transtorno bipolar podem não procurar ajuda porque se sentem frágeis se não forem capazes de controlar suas emoções. No entanto, sofrer de depressão, ansiedade ou qualquer outro tipo de doença não o torna mais frágil do que os outros. O transtorno bipolar é simplesmente uma condição que pode ser tratada. Assim, a pessoa que a sofre consegue atingir o equilíbrio de que necessita.<br>&nbsp;&nbsp;&nbsp;Precisamos limpar esses mitos sobre o transtorno bipolar de nossas mentes, porque eles nos impedem de aprofundar nosso conhecimento e descobrir o que ele realmente é. Acreditar que quem sofre é louco ou pode enlouquecer os outros não é uma atitude madura para um problema que esgota e desgasta quem sofre</p>"
         $("#a9").hide().slideDown(1000);
         $(".header5").css("margin-top","4cm")
     });
